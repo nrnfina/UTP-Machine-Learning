@@ -1,7 +1,8 @@
-﻿.ipynb_checkpoints/
-all_datasets/
+.ipynb_checkpoints/
 models/
 *.pkl
 *.h5
 *.pt
 *.pth
+!models/
+!models/*
