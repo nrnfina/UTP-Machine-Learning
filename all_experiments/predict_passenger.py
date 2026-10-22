@@ -16,6 +16,7 @@ from pathlib import Path
 import joblib
 import pandas as pd
 
+
 MODELS = Path(__file__).resolve().parent.parent / "models"
 
 
